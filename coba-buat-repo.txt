@@ -1,7 +1,7 @@
 Hai ini saya lagi mencoba membuat repo dan file new
 - tes 1
-- tes 2
+
 
 Saya coba edit nih file
 - tes 1
-- tes 2
+- tes 3
